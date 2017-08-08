@@ -1,5 +1,5 @@
 {
-    "name": "satooshi/php-coveralls",
+    "name": "neuroplasticity9/php-coveralls",
     "description": "PHP client library for Coveralls API",
     "keywords": ["coverage", "github", "test", "ci"],
     "homepage": "https://github.com/satooshi/php-coveralls",
